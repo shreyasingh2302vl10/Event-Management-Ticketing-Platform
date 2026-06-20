@@ -1,7 +1,7 @@
 *Attendize* is an open-source ticketing and event management application built using the Laravel PHP framework. Attendize allows event organisers to sell tickets to their events and manage attendees without paying service fees to third party ticketing companies.
-
+![image](https://github.com/shreyasingh2302vl10/Event-Management-Ticketing-Platform/blob/37f0e82ab39d4ffb1f39b0ee53f9209350e19792/logo-dark.png)
 <p align="center">
-  <img src="/public/assets/images/logo-dark.png" alt="Attendize"/>
+  <!-- <img src="/public/assets/images/logo-dark.png" alt="Attendize"/> -->
   <img style='border: 1px solid #444;' src="https://www.attendize.com/images/screenshots/screen1.PNG" alt="Attendize"/>
 </p>
 
